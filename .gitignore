@@ -1,0 +1,4 @@
+/pytorch-mnist/data/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
